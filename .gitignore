@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# 6502 Build Artifacts
+*.out
+*.bin
+*.hex
+*.lst
+*.o
+*.a
